@@ -21,7 +21,7 @@
         margin: 30px;
         width:100%;
     }
-    h2{
+    h1{
         color:hsl(0, 0%, 100%) ;
         text-align: center;
         padding-left: 9px;
@@ -96,7 +96,7 @@
         margin: 15px;
         width:100%;
     }
-    h2{
+    h1{
         color:hsl(0, 0%, 100%) ;
         text-align: center;
         padding-left: 9px;
@@ -171,7 +171,7 @@
         border-radius: 10px;
         overflow: hidden;
     }
-    h2{
+    h1{
         color:hsl(0, 0%, 100%) ;
         padding-left: 60px;
         padding-top:40px; 
