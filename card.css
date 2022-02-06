@@ -12,7 +12,7 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
-    section{
+    main{
         display: flex;
         flex-direction: column-reverse;
         background-color:hsl(244, 38%, 16%);
@@ -87,7 +87,7 @@
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
     }
-    section{
+    main{
         display: flex;
         flex-direction: column-reverse;
         background-color:hsl(244, 38%, 16%);
@@ -160,7 +160,7 @@
         background-size: cover;
         background-repeat: no-repeat;
     }
-    section{
+    main{
         font-Family:'Inter',sans-serif;
         background-color:hsl(244, 38%, 16%);
         color:hsla(0, 0%, 100%, 0.6);
